@@ -26,7 +26,7 @@ A simple telegram-bot wtitten in LUA
 
 نوشته شده توسط
 
-M.KH @cruel0098
+Hackertanha @Hackertanha
 
 وارد فایل bot.lua شوید
 `````````````````````````````````````````````````````````````````````````````````
